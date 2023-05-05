@@ -1,0 +1,9 @@
+﻿namespace CRSManagementModels.ViewModel
+{
+    public class CurrencyViewModel
+    {
+        public int Id { get; set; }
+
+        public string Description { get; set; }
+    }
+}

@@ -1,0 +1,12 @@
+C:\Users\joshm\source\repos\CRSManagementModels\bin\Debug\net6.0\CRSManagementModels.deps.json
+C:\Users\joshm\source\repos\CRSManagementModels\bin\Debug\net6.0\CRSManagementModels.dll
+C:\Users\joshm\source\repos\CRSManagementModels\bin\Debug\net6.0\CRSManagementModels.pdb
+C:\Users\joshm\source\repos\CRSManagementModels\obj\Debug\net6.0\CRSManagementModels.csproj.AssemblyReference.cache
+C:\Users\joshm\source\repos\CRSManagementModels\obj\Debug\net6.0\CRSManagementModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshm\source\repos\CRSManagementModels\obj\Debug\net6.0\CRSManagementModels.AssemblyInfoInputs.cache
+C:\Users\joshm\source\repos\CRSManagementModels\obj\Debug\net6.0\CRSManagementModels.AssemblyInfo.cs
+C:\Users\joshm\source\repos\CRSManagementModels\obj\Debug\net6.0\CRSManagementModels.csproj.CoreCompileInputs.cache
+C:\Users\joshm\source\repos\CRSManagementModels\obj\Debug\net6.0\CRSManagementModels.dll
+C:\Users\joshm\source\repos\CRSManagementModels\obj\Debug\net6.0\refint\CRSManagementModels.dll
+C:\Users\joshm\source\repos\CRSManagementModels\obj\Debug\net6.0\CRSManagementModels.pdb
+C:\Users\joshm\source\repos\CRSManagementModels\obj\Debug\net6.0\ref\CRSManagementModels.dll
